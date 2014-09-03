@@ -1,0 +1,25 @@
+{
+  "name": "nirc-lib",
+  "version": "0.0.0",
+  "description": "Yet another IRC library.",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RolfKoenders/nirc-lib.git"
+  },
+  "keywords": [
+    "irc",
+    "nirc"
+  ],
+  "author": "Rolf Koenders",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RolfKoenders/nirc-lib/issues"
+  }
+}
