@@ -25,5 +25,8 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/RolfKoenders/nirc-lib/issues"
+  },
+  "dependencies": {
+    "bunyan": "^1.0.1"
   }
 }
