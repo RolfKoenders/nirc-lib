@@ -3,6 +3,11 @@
   "version": "0.0.0",
   "description": "Yet another IRC library.",
   "main": "index.js",
+  "author": {
+    "name": "Rolf Koenders",
+    "email": "rolfkoenders@gmail.com",
+    "url": "http://rolfkoenders.nl"
+  },
   "directories": {
     "example": "example"
   },
@@ -17,7 +22,6 @@
     "irc",
     "nirc"
   ],
-  "author": "Rolf Koenders",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/RolfKoenders/nirc-lib/issues"
