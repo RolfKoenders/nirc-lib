@@ -14,3 +14,7 @@ con.on('connected', function(data) {
     console.log('Connected');
 });
 
+con.on('data', function(data) {
+    console.log('Data received: ', data.toString());
+});
+
